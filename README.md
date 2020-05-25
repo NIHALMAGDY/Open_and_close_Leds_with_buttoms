@@ -1,6 +1,6 @@
-# Open_and_close_Leds_with_buttoms
+# Open and close leds using switches
 Very basic embedded project using C as a programming language
-# Hard_Ware_Used
+# Hardware used
 Atmega32 and leds
 # Demo
 ![Farmers Market Finder Demo](demo.gif)
