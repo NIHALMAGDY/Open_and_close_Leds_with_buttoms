@@ -1,5 +1,5 @@
 # Open and close leds using switches
-Very basic embedded project using C as a programming language
+C was used as a programming language
 # Hardware used
 Atmega32 and leds
 # Demo
